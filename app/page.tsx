@@ -39,7 +39,8 @@ export default function Home() {
             <p className="mt-6 text-lg leading-8 text-gray-600">
               Our panel of today&apos;s top educational technology experts is
               going to talk about one of the most important concepts in
-              JavaScript - <span className="font-medium">callback functions!</span>
+              JavaScript -{" "}
+              <span className="font-medium">callback functions!</span>
             </p>
           </div>
           <ul
@@ -51,8 +52,8 @@ export default function Home() {
                 <Image
                   className="aspect-[18/19] w-full rounded-2xl object-contain"
                   src={person.imageUrl}
-                  width={100}
-                  height={24}
+                  width={728}
+                  height={416}
                   alt=""
                 />
                 <h3 className="mt-6 text-lg font-semibold leading-8 tracking-tight text-gray-900">

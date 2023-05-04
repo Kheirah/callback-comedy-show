@@ -128,12 +128,12 @@ export default function Home() {
         />
         <div className="flex-auto">
           <h3 className="text-lg font-semibold leading-8 tracking-tight text-gray-900 mt-1">
-            Serious Proud
+            Dr. Serious Proud
           </h3>
-          <p className="text-base leading-7 text-gray-600">Full Stack Dev</p>
+          <p className="text-base leading-7 text-gray-600">Full Stack Professor</p>
           <p className="mt-6 text-base leading-7 text-gray-600 max-w-md">
-            Of course! Imagine callbacks as comedians like our guest tonight
-            Chris, who are invited to perform at a comedy club by the host,
+            Of course! Imagine callbacks as comedians like our guest Chris
+            tonight, who are invited to perform at a comedy club by the host,
             which is you in this case.
           </p>
         </div>
